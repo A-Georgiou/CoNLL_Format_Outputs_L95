@@ -192,11 +192,11 @@
 4	version	version	NOUN	NN	_	12	nsubj	_	_
 5	of	of	ADP	IN	_	8	case	_	_
 6	the	the	DET	DT	_	8	det	_	_
-7	Viterbi	viterbi	NOUN	NN	_	8	compound	_	_
-8	algorithm	algorithm	NOUN	NN	Number=Sing	4	nmod	_	_
+7	Viterbi	viterbi	NOUN	NN	Number=Sing	8	compound	_	_
+8	algorithm	algorithm	NOUN	NN	_	4	nmod	_	_
 9	that	that	PRON	WDT	_	11	obj	_	_
 10	we	we	PRON	PRP	_	11	nsubj	_	_
-11	present	present	VERB	VBP	_	8	acl:relcl	_	_
+11	present	present	VERB	VBP	_n	8	acl:relcl	_	_
 12	takes	take	VERB	VBZ	_	0	root	_	_
 13	as	as	ADP	IN	_	14	mark	_	_
 14	input	input	VERB	VB	_	12	advcl	_	_
